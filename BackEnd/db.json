@@ -1,0 +1,31 @@
+{
+  "users": [
+    {
+      "id": "40a8",
+      "name": "ASDSA",
+      "email": "SADSAD"
+    },
+    {
+      "id": "bf39",
+      "name": "MAURO MARINELLI",
+      "email": "mmartinelli@printsxprec.com"
+    },
+    {
+      "id": "c389",
+      "name": "Celia",
+      "email": "csacelia@gmail.com"
+    }
+  ],
+  "clientes": [
+    {
+      "id": "3bdb",
+      "name": "Celia",
+      "email": "csacelia@gmail.com"
+    },
+    {
+      "name": "Celia Albuequerque Souza",
+      "email": "csacelia@gmail.com",
+      "id": "6a5a"
+    }
+  ]
+}
